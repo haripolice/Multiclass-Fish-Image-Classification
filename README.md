@@ -67,9 +67,5 @@ You can deploy this Streamlit app on:
 - Render
 - Hugging Face Spaces
 
-## 🧾 Author
-**Playboy**  
-_Data Scientist_  
-
 ## 📜 License
 This project is released under the MIT License.
